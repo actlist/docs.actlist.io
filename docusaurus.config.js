@@ -44,8 +44,8 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       announcementBar: {
-        id: 'announcementBar-20211225-v1', // Increment on change
-        content: `⭐️ If you like Actlist, give it a star on <a target="_blank" rel="noopener noreferrer" href="https://github.com/actlist/actlist">GitHub</a> and follow us on <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/ActlistApp" >Twitter</a> ${TwitterSvg}`,
+        id: 'announcementBar-20220114-v1', // Increment on change
+        content: `⭐️ If you like Actlist, give it a star on <a target="_blank" rel="noopener noreferrer" href="https://github.com/actlist/actlist">GitHub</a> and follow us on <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/actlistio" >Twitter</a> ${TwitterSvg}`,
       },
       navbar: {
         title: 'Actlist',
@@ -100,7 +100,7 @@ const config = {
             items: [
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/ActlistApp',
+                href: 'https://twitter.com/actlistio',
               },
               {
                 label: 'Discord',
