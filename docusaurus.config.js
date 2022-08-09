@@ -72,6 +72,11 @@ const config = {
             position: 'left',
           },
           {
+            to: 'https://github.com/sponsors/actlist',
+            label: 'Donate',
+            position: 'left',
+          },
+          {
             to: 'mailto:contact@silentsoft.org',
             label: 'Contact',
             position: 'left',
